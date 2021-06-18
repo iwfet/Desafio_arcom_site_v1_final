@@ -1,5 +1,5 @@
 
-pip install Flask==2.0.1
+pip install Flask
 pip install Flask-SQLAlchemy==2.5.1
 pip install  flask-wtf==0.15.1
 pip install Flask-Uploads==0.2.1
